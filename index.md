@@ -18,10 +18,6 @@ A method on how to bypass this is on our Patreon
 ---
 
 :::content-center
-[!button icon="assets/Discord-Symbol-Black.svg" size="2xl" variant="contrast" text="fastflags*space"](https://discord.gg/6zqNQTSkrg)
-:::
-
-:::content-center
 [!button icon="archive" size="2xl" variant="contrast" text="View List Archive"](https://archive.fastflags.space)
 :::
 
