@@ -2,6 +2,8 @@
 title: Information
 icon: rel-file-path
 ---
+
+<div align="center">
   
 <img src="assets/pbc.png" width="768">
 
