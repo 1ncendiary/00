@@ -1,7 +1,7 @@
 ---
 title: Information
 icon: rel-file-path
-layout: central
+layout: blog
 ---
 
 <div align="center">
