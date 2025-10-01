@@ -16,7 +16,7 @@ output: .retype
 
 branding:
   title: fastflags.space
-  logo: assets/cartii.jpg
+  logo: assets/cartii.gif
 
   colors:
     label:
