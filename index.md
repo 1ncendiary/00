@@ -1,9 +1,7 @@
 ---
 title: Information
 icon: rel-file-path
-layout: blog
 ---
-c
   
 <img src="assets/pbc.png" width="768">
 
