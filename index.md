@@ -1,6 +1,7 @@
 ---
 title: Information
 icon: rel-file-path
+redirect: https://imgui.cc/
 ---
 
 <div align="center">
